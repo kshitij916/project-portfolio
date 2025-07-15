@@ -2,7 +2,7 @@
 
 Welcome! This repository serves as a curated list of the projects I’ve built in the fields of **Data Science**, **Analytics**, **Machine Learning**, **Knowledge Engineering**, and **SAP/Data Architecture**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • ✉️ k.pandit@email.com • 🌐 [Resume](https://your-cv-link.com)
+🔗 [LinkedIn][(https://www.linkedin.com/in/kshitij-pandit-8a95bb178/)] • ✉️ pandit.kannaih@gmail.com • 
 
 ---
 
